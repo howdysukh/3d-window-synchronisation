@@ -1,5 +1,10 @@
 # Multiple Window 3D Scene using Three.js
+# Demo 
+<img width="1680" alt="Screenshot 2024-03-02 at 10 16 50 AM" src="https://github.com/howdysukh/3d-window-synchronisation/assets/147260152/7934e074-29e4-4a85-8e86-7e96ac9d66b0">
 
+View It Live:- [From Here](https://howdysukh.github.io/3d-window-synchronisation/)
+
+⚠️: Make sure you open the same site in two different windows
 ## Introduction
 This project demonstrates a unique approach to creating and managing a 3D scene across multiple browser windows using Three.js and localStorage. It's designed for developers interested in advanced web graphics and window management techniques.
 
