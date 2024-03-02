@@ -30,12 +30,7 @@ The main application logic is contained within `main.js` and `WindowManager.js`.
 ## Contributing
 Contributions to enhance or expand the project are welcome. Feel free to fork the repository, make changes, and submit pull requests.
 
-## License
+## License and Copyright
 This project is open-sourced under the MIT License.
 
-## Acknowledgments
-- The Three.js team for their comprehensive 3D library.
-- x.com/didntdrinkwater for this readme.
-
-## Contact
-For more information and updates, follow [@_nonfigurativ_](https://twitter.com/_nonfigurativ_) on Twitter.
+Original repo URL: [https://github.com/bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene)
